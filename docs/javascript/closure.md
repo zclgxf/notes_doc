@@ -5,10 +5,8 @@
  * @Email:
  * @Date: 2022-02-20 16:43:24
  * @LastEditors: sueRimn
- * @LastEditTime: 2022-02-20 18:05:12
+ * @LastEditTime: 2022-02-20 19:47:12
 -->
-
-# 介绍闭包
 
 ## 什么是闭包
 
